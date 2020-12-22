@@ -1,7 +1,7 @@
   # Loreina Salalila - Progressive Budget
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  In this repository, a user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they are able populate the total when brought back online. [Check out the deployed project over on Heroku](https://hw-note-taker.herokuapp.com/).
+  In this repository, a user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they are able populate the total when brought back online. [Check out the deployed project over on Heroku](https://hw-progressive-budget.herokuapp.com/).
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
