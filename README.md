@@ -8,7 +8,7 @@
   * [Contact](#contact)
   * [Screenshots](#screenshots)
   ## Installation
-  LOCAL:<br> Check package.json for dependenscies and in the terminal install node modules. <br>
+  LOCAL:<br> Check package.json for dependenscies and in the terminal install node modules.
   <br> Once modules installed, run server.js
   <br> Make sure that app is listening and then open chrome browser to localhost:3000
   <br> ```npm install```
