@@ -8,12 +8,12 @@
   * [Contact](#contact)
   * [Screenshots](#screenshots)
   ## Installation
-  Check package.json for dependenscies and in the terminal install node modules.
-  - Once modules installed, run server.js
-  - Make sure that app is listening and then open chrome browser to localhost:3000
-  ```npm install```
-  ```npm init``` is used to install dependencies.
-  ```node server.js```
+  LOCAL:<br> Check package.json for dependenscies and in the terminal install node modules. <br>
+  <br> Once modules installed, run server.js
+  <br> Make sure that app is listening and then open chrome browser to localhost:3000
+  <br> ```npm install```
+  <br> ```npm init``` is used to install dependencies.
+  <br> ```node server.js```
   ## Usage
   Node.js must be installed onto your system prior to usage. Repo MUST include package.json with required dependencies.
   ## License
